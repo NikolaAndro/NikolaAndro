@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nikola-andric-128597179/">
+  <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/nikola-andric-128597179/">
 </p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikola-andric-128597179/)[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/m2YbK5RN) 
