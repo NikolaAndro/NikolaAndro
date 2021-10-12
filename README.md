@@ -10,6 +10,7 @@ Hi there 👋
 
 <p align="center">
 My name is Nikola and I am striving to imrove in the field if Machine Learning.
+   - 📫 How to reach me: nikolazeljkoandric@gmail.com
  </p>
 <!--
 **NikolaAndro/NikolaAndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
