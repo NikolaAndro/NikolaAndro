@@ -10,6 +10,7 @@ Hi there 👋
 
 <p align="center">
 My name is Nikola and I am striving to imrove in the field if Machine Learning.
+   
    - 📫 How to reach me: nikolazeljkoandric@gmail.com
  </p>
 <!--
