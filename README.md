@@ -1,8 +1,17 @@
 
 <p align="center">
-<a  href="https://www.linkedin.com/in/nikola-andric-128597179/">
-  <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>
+  <a  href="https://www.linkedin.com/in/nikola-andric-128597179/">
+    <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href = "https://discord.gg/m2YbK5RN" >
+    <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href = "https://nikolaandro.github.io/Nikola_Andric_Website/">
+    <img src="https://img.shields.io/badge/website-gray.svg?&style=for-the-badge&logo=square&logoColor=white" />
+  </a>
+  <a href = "https://nikolaandro.github.io/">
+    <img src="https://img.shields.io/badge/notes-red.svg?&style=for-the-badge&logo=circle&logoColor=white" />
+  </a>
  </p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikola-andric-128597179/) [<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/m2YbK5RN) 
