@@ -25,7 +25,7 @@ Hi there 👋
 </r>
 
 <p align="center">
-My name is Nikola and I am striving to imrove myself in the field if Machine Learning.
+My name is Nikola and I am striving to imrove myself in the field if Machine Learning and Copmuter Vision.
 </p>
 <p align="center">
 📫 How to reach me: nikolazeljkoandric@gmail.com
