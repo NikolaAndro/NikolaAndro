@@ -36,7 +36,12 @@ Thank you for your support!
 <p align="center">
 <a href="https://www.buymeacoffee.com/nikolaandro"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="" /></a>
 </p>
-        <!--
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/NikolaAndro"><img src="contributions.svg"></a>
+
+
+ <!--
 **NikolaAndro/NikolaAndro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
