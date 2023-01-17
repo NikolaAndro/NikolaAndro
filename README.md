@@ -38,8 +38,6 @@ Thank you for your support!
 </p>
 
 
-<iframe src="https://giphy.com/embed/hXMGQqJFlIQMOjpsKC" width="456" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/buy-me-a-coffee-support-thanks-for-your-hXMGQqJFlIQMOjpsKC">via GIPHY</a></p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/NikolaAndro"><img src="contributions.svg"></a>
 
 
