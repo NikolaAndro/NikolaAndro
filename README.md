@@ -6,6 +6,12 @@ Hi there 👋
 I am striving to imrove myself in the field if Machine Learning, AI, and Copmuter Vision.
 </p>
 <p align="center">
+I am actively doing research in computer science and I would like to get involved with more research projects. Please reach out to me with ideas! 
+</p>
+<p align="center">
+📫 How to reach me: SquidwardsGitHub@outlook.com
+</p>
+<p align="center">
 Thank you for your support!
 </p>
 <p align="center">
