@@ -15,7 +15,7 @@ I am actively doing research in computer science and I would like to get involve
 Thank you for your support!
 </p>
 <p align="center">
-<a href="https://www.buymeacoffee.com/nikolaandro"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="" /></a>
+<a href="https://www.buymeacoffee.com/nikolaandro"><img src="donate (1).png" alt="" width="300" height="100" /></a>
 </p>
 
 
