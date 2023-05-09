@@ -15,12 +15,13 @@ I am actively doing research in computer science and I would like to get involve
 Thank you for your support!
 </p>
 <p align="center">
+<a><img src="bmc_qr.png" alt="" width="217" height="217" /></a>
+</p>
+<p align="center">
 <!-- <a href="https://www.buymeacoffee.com/SquidwardsW"><img src="donate (1).png" alt="" width="300" height="100" /></a> -->
 <a href="https://www.buymeacoffee.com/SquidwardsW" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
-<p align="center">
-<a><img src="bmc_qr.png" alt="" width="217" height="217" /></a>
-</p>
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/NikolaAndro"><img src="contributions.svg"></a>
